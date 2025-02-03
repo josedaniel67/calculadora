@@ -1,5 +1,5 @@
 'use client';
-import React, { useState } from "react";
+import { useState } from "react";
 import Display from "./Display";
 import Button from "./Button";
 
